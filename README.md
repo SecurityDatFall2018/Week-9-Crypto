@@ -24,4 +24,12 @@ If you just can wait to get started ;-) this [video](https://www.youtube.com/wat
 - [What is PIK (public key infrastructure)](https://www.youtube.com/watch?v=5OqgYSXWYQM&t=170s) (watch the first 8 minutes)
 - [Intro to SSH and SSH Keys](https://www.youtube.com/watch?v=mF6J-VQHPxA&t=293s) (This introduces the three scenaious you are expected to set up in the first exercise, and eventually demonstrate at the exam)
 
+#### Read
+
+- [Man in the middle attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) Read the first part (Example) of the article and skim the rest
+- [Symmetric vs Asymetric Encryption](https://www.jscape.com/blog/bid/84422/Symmetric-vs-Asymmetric-Encryption)
+- [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function) (Skim only)
+- [Cipher Suites](https://www.jscape.com/blog/cipher-suites) Skim only, neccesary to understand parts of the Wireshark demo
+- [Differenc between a digital signature, a MAC and a hash](https://en.wikipedia.org/wiki/Cryptographic_hash_function) Read the approved answer in this StackExchange article
+
 ## Exercises
