@@ -34,5 +34,5 @@ _Since we are not using a text-book, but web resources only, there are many alte
 - [Differenc between a digital signature, a MAC and a hash](https://en.wikipedia.org/wiki/Cryptographic_hash_function) Read the approved answer in this StackExchange article
 
 ## Exercises
-- [SSL and SSH, three different scenarious](https://docs.google.com/document/d/1ac7HrNnu4rlS43LODodjAP25KR-p2apKSaMFy01PWro/edit?usp=sharing) This shoul preferably be done/started before lesson-1 in this week
+- [SSL and SSH, three different scenarious](https://docs.google.com/document/d/1ac7HrNnu4rlS43LODodjAP25KR-p2apKSaMFy01PWro/edit?usp=sharing) This should, if possible, be done/started before lesson-1 in this week
 - [Smaller demoes](#) TBD
