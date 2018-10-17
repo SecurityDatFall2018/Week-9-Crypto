@@ -13,7 +13,7 @@ _This is going to be a pretty heavy week when it comes to theory. Most of the ex
 
 ## What to Install
 
-[WireShark](https://www.wireshark.org/download.html) If you consider yourself a green student you kan skip this step. I will however use it for a class demo, so if you wan't to follow on, it must be installed, otherwise you can just watch. Wee will also use wireshark in a future lesson.
+[WireShark](https://www.wireshark.org/download.html) If you consider yourself a green student you kan skip this step. I will however use it for a class demo so if you wan't to follow on, it must be installed, otherwise you can just watch. Wee will also use wireshark in a future lesson(s).
 
 If you just can wait to get started ;-) this [video](https://www.youtube.com/watch?v=u4ht-E-Kihk) more or less do, what I plan for us to do together in the class
 ## What to Read/Watch
@@ -25,6 +25,7 @@ If you just can wait to get started ;-) this [video](https://www.youtube.com/wat
 - [Intro to SSH and SSH Keys](https://www.youtube.com/watch?v=mF6J-VQHPxA&t=293s) (This introduces the three scenaious you are expected to set up in the first exercise, and eventually demonstrate at the exam)
 
 #### Read
+_Since we are not using a text-book, but web resources only, there are many alternatives to the suggestions given below. You can use the topic-list given at the beginning of this document and find your own references if you prefer. You are definitely not expected to end up as a hardcore crypto-specialist when this week is over ;-) But you are expected to have a conceptual idea of the purpose all the topics, and why they are all needed for SSL_
 
 - [Man in the middle attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) Read the first part (Example) of the article and skim the rest
 - [Symmetric vs Asymetric Encryption](https://www.jscape.com/blog/bid/84422/Symmetric-vs-Asymmetric-Encryption)
