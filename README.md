@@ -35,4 +35,5 @@ _Since we are not using a text-book, but web resources only, there are many alte
 
 ## Exercises
 - [SSL and SSH, three different scenarious](https://docs.google.com/document/d/1ac7HrNnu4rlS43LODodjAP25KR-p2apKSaMFy01PWro/edit?usp=sharing) This should, if possible, be done/started before lesson-1 in this week
+- [SSL Handshake](https://docs.google.com/document/d/13oD_h5fO9i1rIeQaiMxzG54w3q5dc0neL8nPGX2HEdw/edit?usp=sharing) We will do this together in the class
 - [Smaller demoes](#) TBD
