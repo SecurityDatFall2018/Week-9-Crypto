@@ -31,7 +31,7 @@ _Since we are not using a text-book, but web resources only, there are many alte
 - [Symmetric vs Asymetric Encryption](https://www.jscape.com/blog/bid/84422/Symmetric-vs-Asymmetric-Encryption)
 - [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function) (Skim only)
 - [Cipher Suites](https://www.jscape.com/blog/cipher-suites) Skim only, neccesary to understand parts of the Wireshark demo
-- [Differenc between a digital signature, a MAC and a hash](https://en.wikipedia.org/wiki/Cryptographic_hash_function) Read the approved answer in this StackExchange article
+- [Differenc between a digital signature, a MAC and a hash](https://crypto.stackexchange.com/questions/5646/what-are-the-differences-between-a-digital-signature-a-mac-and-a-hash) Read the approved answer in this StackExchange article
 
 ## Exercises
 - [SSL and SSH, three different scenarious](https://docs.google.com/document/d/1ac7HrNnu4rlS43LODodjAP25KR-p2apKSaMFy01PWro/edit?usp=sharing) This should, if possible, be done/started before lesson-1 in this week
