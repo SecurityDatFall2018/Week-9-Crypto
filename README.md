@@ -18,7 +18,7 @@ _This is going to be a pretty heavy week when it comes to theory. Most of the ex
 If you just can wait to get started ;-) this [video](https://www.youtube.com/watch?v=u4ht-E-Kihk) more or less do, what I plan for us to do together in the class
 
 #### WireShark SSL-handshake sample we did in the class
-[wireshark-sample](Week-9-Crypto/classDemo.pcapng)
+[wireshark-sample](https://github.com/SecurityDatFall2018/Week-9-Crypto/blob/master/classDemo.pcapng)
       
 ## What to Read/Watch
 
